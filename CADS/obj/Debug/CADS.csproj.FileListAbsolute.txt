@@ -1,0 +1,7 @@
+D:\Project\CADS\CADS\bin\Debug\CADS.exe.config
+D:\Project\CADS\CADS\bin\Debug\CADS.exe
+D:\Project\CADS\CADS\bin\Debug\CADS.pdb
+D:\Project\CADS\CADS\obj\Debug\CADS.csprojResolveAssemblyReference.cache
+D:\Project\CADS\CADS\obj\Debug\CADS.csproj.CoreCompileInputs.cache
+D:\Project\CADS\CADS\obj\Debug\CADS.exe
+D:\Project\CADS\CADS\obj\Debug\CADS.pdb

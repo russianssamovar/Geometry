@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADS", "CADS\CADS.csproj", "{4BABB952-0B09-462A-AB27-43A80D05E49D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BABB952-0B09-462A-AB27-43A80D05E49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BABB952-0B09-462A-AB27-43A80D05E49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BABB952-0B09-462A-AB27-43A80D05E49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BABB952-0B09-462A-AB27-43A80D05E49D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4D340A9-5243-450F-A779-9B95520472C0}
+	EndGlobalSection
+EndGlobal
